@@ -1,0 +1,10 @@
+[Tue Dec 26 14:51:26 2017] INFO: Opened log file uWebKit.log
+[Tue Dec 26 14:51:26 2017] INFO: Created 3 worker threads
+[Tue Dec 26 14:51:26 2017] INFO: Initialized engine
+[Tue Dec 26 14:51:26 2017] INFO: uWebKit Plugin Initializing
+[Tue Dec 26 14:51:26 2017] INFO: Launching Broker D:/Unity Project/ARbziiit/Assets/uWebKit/Internal/Editor/Binaries/Windows/x86_64/UWKProcess/UWKProcess.exe 
+[Tue Dec 26 14:51:26 2017] INFO: Graphics Device Version: OpenGL ES 3.0 [emulated]
+[Tue Dec 26 14:51:26 2017] INFO: uWebKit Beta Expired: Loading http://www.uwebkit.com
+[Tue Dec 26 14:51:26 2017] INFO: IPCWorkerStarted
+[Tue Dec 26 14:51:53 2017] INFO: uWebKit Beta Expired: Loading http://www.uwebkit.com
+[Tue Dec 26 14:52:01 2017] INFO: uWebKit Beta Expired: Loading http://www.uwebkit.com

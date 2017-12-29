@@ -1,0 +1,10 @@
+List.Generate
+(() =>
+     [counter = 1, seq_val = 1], // this is our initial //values 
+     each [counter] <= Table.RowCount(Table.Buffer(JournalEntryline)), // our terminating condition
+     each [
+        seq_val = if Text.Range([GeneralAccountNumber],0,2)="60" then [seq_val] + 1 else [seq_val],
+        counter = [counter] + 1
+     ], // change seq_val if your value (which should be a list) changes
+     each [seq_val] // now output the list
+)
